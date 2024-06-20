@@ -104,3 +104,4 @@ def checkqa(session):
         "--all-files",
         "--show-diff-on-failure",
     )
+
